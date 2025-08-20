@@ -1,4 +1,4 @@
-# 🩺 Medify – Your AI Medical Assistant
+# 🩺 Medify – An AI Medical Assistant
 
 Medify is a privacy-respecting, PDF-aware medical chatbot that answers healthcare-related questions based on uploaded medical documents. It uses LangChain with FAISS vector store, HuggingFace embeddings, and a Groq-hosted LLM to provide informed responses — while maintaining chat history context.
 ## Live Link
